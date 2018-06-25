@@ -7,15 +7,8 @@
 
 * Part 1: SignUp
 * Part 2: SignIn
-* Part 3: Add and display items in Bucket List
-* Part 4: Edit and delete items in Bucket List
-* Part 6:
-* Part 7: 
-* Part 8: 
-* Part 9:
-* Part 10: 
-
-
+* Part 3: Add and Display items
+* Part 4: Edit and Delete items
 
 ## MySQL Setup
 ### install and connect to MySQL server
