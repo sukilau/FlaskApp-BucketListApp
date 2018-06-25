@@ -7,9 +7,9 @@
 
 * Part 1: SignUp
 * Part 2: SignIn
-* Part 3: Add item to Bucket List
-* Part 4: Add  to Bucket List
-* Part 6: Add items
+* Part 3: Add and display items in Bucket List
+* Part 4: Edit and delete items in Bucket List
+* Part 6:
 * Part 7: 
 * Part 8: 
 * Part 9:
@@ -32,11 +32,18 @@ USE BucketList;
 ```
 ### create table & stored procedures
 * run the following sql script
-
-create_user_table.sql
+```
+create_userTable.sql
 sp_createUser.sql
 sp_validateLogin.sql
 
+creat_wishList.sql
+sp_GetWishByUser.sql
+sp_GetWishById.sql
+sp_updateWish.sql
+sp_addWish.sql
+sp_deleteWish.sql
+
 SHOW CREATE PROCEDURE sp_createUser;
 SHOW CREATE PROCEDURE sp_validateLogin;
-
+```
